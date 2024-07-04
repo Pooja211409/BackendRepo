@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BackendRepoProjectApplication {
 
 	public static void main(String[] args) {
-		
+		//test comment
 		SpringApplication.run(BackendRepoProjectApplication.class, args);
 	}
 
